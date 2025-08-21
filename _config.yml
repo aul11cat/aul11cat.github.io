@@ -1,16 +1,13 @@
 title: 我的技術筆記
 description: "Laravel / JS / DevOps 筆記"
-url: "https://aul11cat.github.io"   # ← 改成你的 GitHub Pages 網址
-baseurl: ""                         # 若放子資料夾才設定
+url: "https://aul11cat.github.io"
+baseurl: ""
 repository: "aul11cat/aul11cat.github.io"
-theme: minima
 
 remote_theme: "mmistakes/minimal-mistakes"
 
-# 文章網址結構
 permalink: /:categories/:year/:month/:day/:title/
 
-# Plugins
 plugins:
   - jekyll-feed
   - jekyll-sitemap
@@ -26,9 +23,8 @@ author:
   links:
     - label: "GitHub"
       icon: "fab fa-github"
-      url: "https://github.com/yourname"
+      url: "https://github.com/aul11cat"
 
-# 導覽列
 defaults:
   - scope:
       path: ""
