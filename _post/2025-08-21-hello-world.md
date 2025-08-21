@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Hello Jekyll + Minimal Mistakes"
 categories:
   - Tech
