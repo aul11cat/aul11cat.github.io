@@ -3,6 +3,7 @@ description: "Laravel / JS / DevOps 筆記"
 url: "https://aul11cat.github.io"   # ← 改成你的 GitHub Pages 網址
 baseurl: ""                         # 若放子資料夾才設定
 repository: "aul11cat/aul11cat.github.io"
+theme: minima
 
 remote_theme: "mmistakes/minimal-mistakes"
 
